@@ -17,9 +17,11 @@ The proper distance is quite easy to understand, it is simply the actual distanc
 As the universe expands, distant objects get further away from each other and so their proper distance changes over time. 
 Cosmologists want a distance measure that doesn't change over time due to the expansion of the universe, and so they define the comoving distance, this relates to the proper distance by a parameter called the [scale factor](https://en.wikipedia.org/wiki/Scale_factor_(cosmology)). 
 
+{% raw %}
 $$
  D_{p}(t) = a(t) D_{c}
 $$
+{% endraw %}
 
 Where $$D_{p}(t)$$ is the proper distance at time $$t$$, $$a(t)$$ is the scale factor at time $$t$$, and $$D_{c}$$ is the comoving distance. To keep things nice and simple, we say that the current value of the scale factor is 1 (with it being smaller in the past and greater in the future, as the universe expands), and this means that the current proper distance is equal to the comoving distance.
 
