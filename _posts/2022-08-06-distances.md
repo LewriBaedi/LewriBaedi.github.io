@@ -2,6 +2,7 @@
 layout: post
 title: "Distances and cosmology"
 author: Lewys Richards
+mathjax: true
 ---
 
 Following the recent releases of the first images from JWST, there has been a lot of fantastic discussion and questions online relating to distances in cosmology. 
